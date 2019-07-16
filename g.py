@@ -1,2 +1,2 @@
-n1=input()
-print(ord(n1))
+nw12=input()
+print(ord(nw12))
